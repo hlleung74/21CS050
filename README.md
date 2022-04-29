@@ -1,7 +1,7 @@
 21CS050 - MatGrabber
 =============
 
-This project is a Windows-based MATLAB app for recovering screen contents of LCD monitors. Images are reconstructed after analysing the signals captured by a RSP1A Software-Defined Radio (SDR) device.
+This project explores the extent of side-channel attacks on laptop PCs. A Windows-based MATLAB app, MatGrabber, was implemented for recovering screen contents of LCD monitors. Images are reconstructed after analysing the signals captured by a RSP1A Software-Defined Radio (SDR) device.
 
 There are two modes in MatGrabber: File Mode and SDR Mode. The former one analyses the signals from audio files, while the latter one analyses the signals directly from the SDR device in real-time.
  <br />
