@@ -19,8 +19,8 @@ Installation
 1. Download MATLAB from the official MATLAB website (https://matlab.mathworks.com/).
 2. Download SDRuno from the official SDRplay website (https://www.sdrplay.com/downloads/).
 3. Install the API in the default location when downloading SDRuno (i.e. in "C:\Program Files\SDRplay").
-4. Add the .dll/.lib path of the API in the in the Path Environment variables. (e.g. "C:\Program Files\SDRplay\API\x64" for 64-bit system).
-5. Run the "Build_MEX.m" file in MATLAB to create the MEX file which enables communication between Matlab and the RSP.
+4. Add the .dll/.lib path of the API in the Path Environment variables. (e.g. "C:\Program Files\SDRplay\API\x64" for 64-bit system).
+5. Run the "Build_MEX.m" file in MATLAB to create the MEX file which enables the communication between Matlab and the RSP.
 6. Select the "Install App" button under "APPS" tab in MATLAB.
 7. Select the "MatGrabber.mlappinstallin" file (inside the "Demo" folder) to install MatGrabber.
 
@@ -59,8 +59,8 @@ The following steps explains how to visualise the data collected by RSP in the "
 
 Evaluation
 ------------
-* report_evaluation_code.mlx: The code for final report's Sections 5.3.1 and 5.4.1
-* testMatGrabber.m: The code for final report's Section 5.3.2
+* report_evaluation_code.mlx: The code for the final report's Sections 5.3.1 and 5.4.1
+* testMatGrabber.m: The code for the final report's Section 5.3.2
 
 Further Questions?
 ------------
