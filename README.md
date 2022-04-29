@@ -4,6 +4,7 @@
 This project is a Windows-based MATLAB app for recovering screen contents of LCD monitors. Images are reconstructed after analysing the signals captured by a RSP1A Software-Defined Radio (SDR) device.
 
 There are two modes in MatGrabber: File Mode and SDR Mode. The former one analyses the signals from audio files, while the latter one analyses the signals directly from the SDR device in real-time.
+<br />
 
 Credits
 ------------
@@ -13,6 +14,7 @@ https://www.sdrplay.com/sdruno/
 
 2. SDRplay RSP2 Matlab Toolbox <br />
 https://ww2.mathworks.cn/matlabcentral/fileexchange/67816-sdrplay-rsp2-matlab-toolbox
+<br />
 
 Installation
 ------------
@@ -29,6 +31,7 @@ Installation
 6. Select the "Install App" button under "APPS" tab in MATLAB.
 
 7. Select the "MatGrabber.mlappinstallin" file (inside the "Demo" folder) to install MatGrabber.
+<br />
 
 Installation Troubleshooting
 ------------
@@ -43,6 +46,7 @@ If there are errors when installing MatGrabber with the "MatGrabber.mlappinstall
 4. Select the "Package" button to create the .mlappinstallin file.
 
 5. Install MatGrabber with the new "MatGrabber.mlappinstallin" file.
+<br />
 
 How does File Mode work?
 ------------
@@ -63,6 +67,7 @@ The following steps explains how to visualise the audio file in the "File Mode" 
 3. Click the "Start" button to begin the signal processing.
 
 4. Adjust the synchronous information and image position on the GUI.
+<br />
 
 How does SDR Mode work?
 ------------
@@ -79,13 +84,13 @@ The following steps explains how to visualise the data collected by RSP in the "
 
 6. Click the "Connect" button to disconnect RSP from MatGrabber.
 <br />
-<br />
 
 Evaluation
 ------------
 * report_evaluation_code.mlx: The code for final report's Sections 5.3.1 and 5.4.1
 
 * testMatGrabber.m: The code for final report's Section 5.3.2
+<br />
 
 Further Questions?
 ------------
