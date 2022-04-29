@@ -1,4 +1,4 @@
-# 21CS050 - MatGrabber
+21CS050 - MatGrabber
 =============
 
 This project is a Windows-based MATLAB app for recovering screen contents of LCD monitors. Images are reconstructed after analysing the signals captured by a RSP1A Software-Defined Radio (SDR) device.
